@@ -32,3 +32,5 @@ function getTopLocations(address _user, string memory _objectType, uint256 _topN
 
     return topLocations;
 }
+
+"Good to Go"
